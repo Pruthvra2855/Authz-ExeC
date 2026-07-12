@@ -19,8 +19,6 @@ false positives, with first-class **multi-tenant** and **GraphQL** support.
   <img src="docs/screenshot.png" alt="Authz-ExeC results matrix" width="900">
 </p>
 
-> _Add a screenshot at `docs/screenshot.png` — the Results Matrix tab makes a great one._
-
 ## ✨ Features
 
 **⚡ Core**
