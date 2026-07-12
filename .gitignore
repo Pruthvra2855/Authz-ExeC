@@ -1,0 +1,26 @@
+# Build output
+out/
+dist/
+test/out/
+*.class
+
+# Keep the prebuilt jar in release/, ignore stray jars elsewhere
+/*.jar
+dist/*.jar
+
+# IDE / editor
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs / scratch
+*.log
+scratch/

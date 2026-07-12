@@ -1,0 +1,14 @@
+# Normalise line endings
+* text=auto
+
+*.java   text eol=lf
+*.md     text eol=lf
+*.sh     text eol=lf
+*.ps1    text eol=crlf
+*.gitignore text eol=lf
+
+# Binary
+*.jar    binary
+*.png    binary
+*.jpg    binary
+*.gif    binary
